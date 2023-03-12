@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This consists of the ui for the spring boot expenses app using react
+
 ## Available Scripts
 
 In the project directory, you can run:
